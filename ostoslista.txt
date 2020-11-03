@@ -1,4 +1,4 @@
 Kaupasta ostettava:
 - ruokaa
 - juotavaa
-- karkkia
+- suklaata
