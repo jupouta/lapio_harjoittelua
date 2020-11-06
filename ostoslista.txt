@@ -3,3 +3,4 @@ Kaupasta ostettava:
 - ruokaa
 - juotavaa
 - suklaata
+viimeinen rivi
