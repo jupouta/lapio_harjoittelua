@@ -1,6 +1,6 @@
 ensimmäinen rivi
 Kaupasta ostettava:
-- ruokaa
+- syötävää
 - juotavaa
 - suklaata
 viimeinen rivi
