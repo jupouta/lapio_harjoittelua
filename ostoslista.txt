@@ -3,4 +3,5 @@ Kaupasta ostettava:
 - syötävää
 - juotavaa
 - suklaata
+- karkkia
 viimeinen rivi
